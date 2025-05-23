@@ -32,11 +32,11 @@
 
 ###
 
-<h3 align="left">✨ Creating bugs since ...<br>2023 (or whenever you started coding seriously)<br><br>📚 I'm currently learning ...<br>React, Blender, Cybersecurity in C, Game Development<br><br>🎯 Goals:<br>To build AI tools, secure apps, and design creative UIs</h3>
+<h3 align="left">📚 I'm currently learning ...<br>React, Blender, Cybersecurity in C, Game Development<br><br>🎯 Goals:<br>To build AI tools, secure apps, and design creative UIs</h3>
 
 ###
 
-<h3 align="left">💻 I code with<br>Make sure the following tech icons are selected (and others removed if not used):<br><br>✅ JavaScript (JS)<br><br>✅ TypeScript (TS)<br><br>✅ React<br><br>✅ Tailwind CSS<br><br>✅ Node.js (if used in backend)<br><br>✅ HTML5<br><br>✅ CSS3<br><br>✅ C language</h3>
+<h3 align="left">💻 I code with<br><br>✅ JavaScript (JS)<br><br>✅ TypeScript (TS)<br><br>✅ React<br><br>✅ Tailwind CSS<br><br>✅ Node.js (if used in backend)<br><br>✅ HTML5<br><br>✅ CSS3<br><br>✅ C language</h3>
 
 ###
 
