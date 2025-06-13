@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">📚 I'm currently learning ...<br>React, Blender, Cybersecurity in C, Game Development<br><br>🎯 Goals:<br>To build AI tools, secure apps, and design creative UIs</h3>
+<h3 align="left">📚 I'm currently learning ...<br>React, Blender, Game Development<br><br>🎯 Goals:<br>To build AI tools, secure apps, and design creative UIs</h3>
 
 ###
 
